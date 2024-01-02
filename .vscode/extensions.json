@@ -1,4 +1,3 @@
 {
-  "recommendations": ["astro-build.astro-vscode", "editorconfig.editorconfig"],
-  "unwantedRecommendations": []
+  "recommendations": ["astro-build.astro-vscode", "editorconfig.editorconfig"]
 }

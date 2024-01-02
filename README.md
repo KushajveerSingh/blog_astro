@@ -15,11 +15,10 @@
 -   [ ] Typescript
 -   [ ] Lighthouse
 
--   [ ] Vscode
--   [ ] Editorconfig
 -   [ ] Vitest
 -   [ ] Playwright
 -   [ ] Code spell check
+-   [ ] After project is done do spell check for complete repo
 
 -   [ ] Elasticsearch + Kibana + Logstgash (https://www.youtube.com/watch?v=k1c4mbTdSPw)
 -   [ ] Grafana
