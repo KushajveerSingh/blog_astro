@@ -21,7 +21,14 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
 
+  "cSpell.caseSensitive": false,
+  "cSpell.language": "en-US",
+
   "[markdown]": {
+    "editor.tabSize": 4
+  },
+
+  "[mdx]": {
     "editor.tabSize": 4
   }
 }
